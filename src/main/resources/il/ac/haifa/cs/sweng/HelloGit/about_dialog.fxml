@@ -8,19 +8,16 @@
 <VBox xmlns:fx="http://javafx.com/fxml/1">
 	<!-- TODO Add Nodes -->
 	<!--<Label> "Hi there, We are using Git ! ! ! "</Label>-->
-	<!--<Label> "NIssim "</Label>-->
-
 
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
-		   text="Hi there , We are using Git ! ! ! asaf"
+		   text="Hi there , We are using Git ! ! !"
 		   textAlignment="CENTER"
 		   VBox.vgrow="ALWAYS">
 		<font>
 			<Font size="31.0" />
 		</font>
 	</Label>
-
 
 	<Label alignment="CENTER"
 		   maxWidth="2.7976931348623157E308"
@@ -31,5 +28,7 @@
 			<Font size="31.0" />
 		</font>
 	</Label>
+
+
 </VBox>
 
